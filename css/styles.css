@@ -39,3 +39,8 @@ color:#DDDDDD;}
 header .intro-text .intro-heading, header .intro-text .intro-lead-in, .navbar-default .nav li a, .navbar-default .navbar-brand{
 	text-shadow: 1px 1px 0px black;
 }
+@media(max-width: 400px){
+	.clients .instafeed{
+		display:none;
+	}
+}
