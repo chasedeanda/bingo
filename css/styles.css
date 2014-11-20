@@ -1,0 +1,41 @@
+.team-member img{
+height: 236px;
+width: 236px;
+}
+header{
+background-size: cover;
+}
+@media (max-width: 400px){
+header .intro-text .intro-heading{
+font-size: 45px;
+}
+.instafeed{
+	display:none !important;
+}
+html,body{
+	overflow-x:hidden;
+}
+.mainbtn{
+	width:89% !important;
+	font-size: 14px !important;
+}
+header .intro-text .intro-heading{
+	font-size: 40px !important;
+}
+}
+.navy{
+color: #EADEBA;
+}
+#timeline{background:#222;
+}
+#timeline .container{
+color:#DDDDDD;}
+.black{
+	color: #222;
+}
+.top10{
+	margin-top: 10px !important;
+}
+header .intro-text .intro-heading, header .intro-text .intro-lead-in, .navbar-default .nav li a, .navbar-default .navbar-brand{
+	text-shadow: 1px 1px 0px black;
+}
