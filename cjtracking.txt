@@ -1,0 +1,67 @@
+Order ID: 1
+
+Date and time of order: 01/09/15
+
+Test notes and description: 
+
+‘SocialCentiv Free Trial Signup – submitted’ action. Testing signing up for a free trial.
+
+Note: The test link redirects to http://socialcentiv.com/?source=cjaffiliate&AID=12084838&PID=1245&SID=TrackingTest
+which is the homepage and doesn't have the signup form. It should redirect to http://socialcentiv.com/signup/?source=cjaffiliate&AID=12084838&PID=1245&SID=TrackingTest
+
+Was the test link clicked first? (Yes/No): Yes
+
+Was a discount used? (Yes/No): No
+
+ORDER INFORMATION
+
+Item 1 SKU: none
+
+Quantity of item 1: 1
+
+Per unit price without discount: 0.00
+
+Total discount amount for item 1 (if applicable): 0.00
+
+Discount to apply to the whole order (if applicable): 0.00
+
+Commissionable Subtotal: 0.00
+
+(This is the value after any discounts are removed but without tax and shipping. 
+
+It is the amount you are paying commission on.)
+
+-------------------------------------------------------------------------------------------------------------------
+
+Order ID: 2
+
+Date and time of order: 01/09/15
+
+Test notes and description: 
+
+‘SocialCentiv Monthly Subscription’ action. Testing subscriptions from free trials.
+
+Note: The test link redirects to http://socialcentiv.com/?source=cjaffiliate&AID=12084838&PID=1245&SID=TrackingTest
+which is the homepage and doesn't have the subscription form. It should redirect to http://my.socialcentiv.com/account
+
+Was the test link clicked first? (Yes/No): Yes
+
+Was a discount used? (Yes/No): No
+
+ORDER INFORMATION
+
+Item 1 SKU: none
+
+Quantity of item 1: 1
+
+Per unit price without discount: 49.00
+
+Total discount amount for item 1 (if applicable): 49.00
+
+Discount to apply to the whole order (if applicable): 0.00
+
+Commissionable Subtotal: 49.00
+
+(This is the value after any discounts are removed but without tax and shipping. 
+
+It is the amount you are paying commission on.)

@@ -1,0 +1,57 @@
+{
+	"bingocollection":
+	[
+		{
+			"src": "img/apparel/blue-tee.jpeg",
+			"title": "Bingo Logo Tee Mint",
+			"price": 20,
+			"url": "http://bingo93.bigcartel.com/product/bingo-logo-tee"
+		},
+		{
+			"src": "img/apparel/girl-blue-tee.jpeg",
+			"title": "Bingo Logo Tee Mint",
+			"price": 20,
+			"url": "http://bingo93.bigcartel.com/product/bingo-logo-tee"
+		},
+		{
+			"src": "img/apparel/black-tee.jpeg",
+			"title": "Bingo Logo Tee Black",
+			"price": 20,
+			"url": "http://bingo93.bigcartel.com/product/bingo-logo-tee-black"
+		},
+		{
+			"src": "img/apparel/girl-black-tee.jpeg",
+			"title": "Bingo Logo Tee Black",
+			"price": 20,
+			"url": "http://bingo93.bigcartel.com/product/bingo-logo-tee-black"
+		},
+		{
+			"src": "img/apparel/grey-tee.jpeg",
+			"title": "Bingo Logo Tee Grey",
+			"price": 20,
+			"url": "http://bingo93.bigcartel.com/product/bingo-logo-tee-grey"
+		},
+		{
+			"src": "img/apparel/girl-grey-tee.jpeg",
+			"title": "Bingo Logo Tee Grey",
+			"price": 20,
+			"url": "http://bingo93.bigcartel.com/product/bingo-logo-tee-grey"
+		}
+	],
+
+	"spradlin":
+	[
+		{
+			"src": "img/SPRADLIN_mockup.jpg",
+			"title": "Anchor Down Spradlin Tee",
+			"price": "",
+			"url": ""
+		},
+		{
+			"src": "img/Spradlin_Mockup_Girl.jpg",
+			"title": "Anchor Down Spradlin Tee",
+			"price": "",
+			"url": ""
+		}
+	]
+}
