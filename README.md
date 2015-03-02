@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Bingo
-=======
-bingo
->>>>>>> 9184aa073f99f58242cdf278cc97df599d814bd2
-=====
-
 Bingo 93 website
+
+Fully mobile responsive ecommerce website. Utilized Bootstrap 3 and Angular JS to create a dynamic build that allows the client to update site content without any coding knowledge or having to work through an external CMS. Had complete ownership of the entire development lifecycle from paper prototyping screens with the client to designing the information architecture of the site. http://bingo93.com
